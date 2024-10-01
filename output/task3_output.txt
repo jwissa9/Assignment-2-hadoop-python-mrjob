@@ -1,0 +1,5 @@
+"Electronics"	{"Total Quantity Sold": 10539, "Average Revenue": 2789.530443527593}
+"Furniture"	{"Total Quantity Sold": 11404, "Average Revenue": 2805.576957156769}
+"Sports"	{"Total Quantity Sold": 10858, "Average Revenue": 2798.3994234693905}
+"Books"	{"Total Quantity Sold": 11017, "Average Revenue": 2825.951524573714}
+"Clothing"	{"Total Quantity Sold": 11299, "Average Revenue": 2774.1679103750616}

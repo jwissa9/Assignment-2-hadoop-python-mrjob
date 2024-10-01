@@ -1,0 +1,10 @@
+"Product ID"	"2004"
+"Total Revenue"	1356490.36
+"Product ID"	"3005"
+"Total Revenue"	1262905.84
+"Product ID"	"5002"
+"Total Revenue"	1258599.66
+"Product ID"	"1005"
+"Total Revenue"	1226337.65
+"Product ID"	"3001"
+"Total Revenue"	1225677.35
